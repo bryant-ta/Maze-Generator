@@ -1,8 +1,11 @@
 # Maze-Generator
 Generates a maze of customizable size using Growing Tree algorithm
 
-# Software
+## Software
 Unity 3D Game Engine
+
+## Languages
+C#
 
 # How to Use
 1) Open "SampleScene" in Assets/Scenes
